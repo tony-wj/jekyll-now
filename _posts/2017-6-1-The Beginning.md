@@ -4,8 +4,6 @@ title: The first blog
 ---
 This is Tony Wu from Hong Kong.
 
-# The Beginning
-
 A new start.
 
 I'm a student from HKU. My interests include web applications, data analysis and system optimization. Currently, I'm studying operations research and following Dr.J.W.Wang from IMSE department. 
