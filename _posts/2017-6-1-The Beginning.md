@@ -16,6 +16,8 @@ I'll try to keep udating, but I still have to do my Engineering Training and ano
 
 Hope you will like my blogs.
 
+-------------------
+
 在语言选择方面， 我会尽量使用中文。由于我看的文献大多是英文，这样有助于锻炼我在语言切换状态下的表达能力。毕竟，如何让别人理解你的意思是一项了不起的能力。
 
 
