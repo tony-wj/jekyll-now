@@ -3,7 +3,7 @@ layout: post
 title: The first blog
 ---
 
-#The Beginning
+# The Beginning
 
 A new start.
 
