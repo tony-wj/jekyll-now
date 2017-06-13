@@ -114,7 +114,7 @@ Saving session...
     for(I=NV+1; I<=NV+NC; I++)  TS[I-NV+1][0] = I;
   }
 ```
-所有的系数已存入数组中，接下去定义三个函数
+所有的系数已存入数组中，接下去定义三个函数:
 ```cpp
   void Pivot();//找到每次迭代的pivot
   void Formula();//对矩阵进行变换
@@ -182,7 +182,9 @@ e110:;}
     for (J=2; J<=NV+1; J++)
       if (TS[1][J] > 0.0)  NOPTIMAL = 1;//如果目标函数所有的系数为非负，则已达到最优解
   }
-
+```
+最后输出结果：
+```cpp
   void Results() {
     //Labels: e30,e70,e100;
     int I,J;
