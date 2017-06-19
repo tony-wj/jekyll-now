@@ -12,6 +12,8 @@ I'm a student from HKU studying Industrial Engineering. Here is my personal blog
 
 Facebook: [Wu Jian](https://www.facebook.com/profile.php?id=100009983418891)
 
+Projects: [An Placement Information System](http://imse2113.imse.hku.hk/3035232315/)
+
 ### Contact me
 
 [wujian.tony@gmail.com](mailto:wujian.tony@gmail.com)
