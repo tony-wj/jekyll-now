@@ -13,7 +13,9 @@ I'm a student from HKU studying Industrial Engineering. Here is my personal blog
 Facebook: [Wu Jian](https://www.facebook.com/profile.php?id=100009983418891)
 
 Projects: 
+
 [Kong Sing International Company](https://www.kongsinginternational.com/)
+
 [An Placement Information System](https://github.com/tony-wj/Placement-Information-System)
 
 
